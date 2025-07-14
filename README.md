@@ -7,3 +7,4 @@ Model Overview
 2)Swin Transformer with powerful attention mechanisms that capture global dependencies and enhance contextual understanding.
 
 3)Skip Connections that merge CNN and transformer representations to optimize feature learning and improve overall model output
+<img width="1100" height="526" alt="image" src="https://github.com/user-attachments/assets/caa298fb-ff6d-4bd4-aa30-58109af8f0ae" />
